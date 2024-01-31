@@ -1,8 +1,8 @@
 # UDBL SCHEDULE COURSE BOT
 
-Cette application est un bot qui te permet de télécharger l'horaire de mon université et de me permettre d'y avoir accès via Telegram.
+This application is a bot that allows you to download the schedule of my university and gives me access to it via Telegram.
 
-## PRÉREQUIS
+## PREREQUISITES
 
 - Node.js
 - JavaScript
@@ -10,16 +10,16 @@ Cette application est un bot qui te permet de télécharger l'horaire de mon uni
 
 ## INSTALLATION
 
-1. Clonez le projet : `git clone https://github.com/glodielukose/UDBL-Course-Schedule-Bot.git`
-2. Accédez au répertoire : `cd UDBL-Course-Schedule-Bot`
-3. Installez les dépendances : `npm install`
-4. Configurez les paramètres du fichier `.env`
+1. Clone the project: `git clone https://github.com/glodielukose/UDBL-Course-Schedule-Bot.git`
+2. Navigate to the directory: `cd UDBL-Course-Schedule-Bot`
+3. Install the dependencies: `npm install`
+4. Configure the parameters in the `.env` file
 
 ## CONFIGURATION
 
-1. Créez un fichier `.env` à la racine de votre projet
-2. Référez-vous au fichier `.env.example` pour créer les différentes variables d'environnement
+1. Create a `.env` file at the root of your project
+2. Refer to the `.env.example` file to create the different environment variables
 
-## EXÉCUTION
+## EXECUTION
 
-- Lancez le serveur Node.js : `npm run start`
+- Launch the Node.js server: `npm run start`
